@@ -1,12 +1,12 @@
-# US International Layout with code-friendly dead keys (Ctrl)
+# US International Layout with code-friendly dead keys (AltGr)
 
 By default, Windows includes a layout called United States-International, which allows typing many non-ASCII characters. It is very useful for several Latin-script based languages.
 
 The layout also designates several keys as "dead keys", particularly the apostrophe (') and double quotes ("). So to enter double quotes, you have to type " followed by space.
 
-When writing code, this can be very annoying, since the apostrophe (') and double quotes (") are used frequenltly.
+When writing code, this can be very annoying, since the apostrophe (') and double quotes (") are used frequently.
 
-This repository contains a layout that is identical to United States-International but instead uses the Ctrl key in combination with the apostrophe ('), double quotes ("), circumflex (^), backtick (``) and tilde (~) as dead keys.
+This repository contains a layout that is identical to United States-International keyboard, but instead uses the **AltGr (Ctrl+Alt)** key in combination with the apostrophe ('), double quotes ("), circumflex (^), backtick (``) and tilde (~) as dead keys.
 
 # How to build / install
 
